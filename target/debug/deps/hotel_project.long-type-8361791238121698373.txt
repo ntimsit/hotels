@@ -1,0 +1,2 @@
+fn() -> impl std::future::Future<Output = impl Responder> {get_average_stay_duration}
+fn() -> impl std::future::Future<Output = impl Responder> {get_average_stay_duration}: HttpServiceFactory

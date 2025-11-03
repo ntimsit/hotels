@@ -1,0 +1,10 @@
+D:\ort studies\Rust\hotel_project\target\debug\deps\zerovec_derive-613f9192dd99f3bc.d: C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\lib.rs C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\make_ule.rs C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\make_varule.rs C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\ule.rs C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\utils.rs C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\varule.rs
+
+D:\ort studies\Rust\hotel_project\target\debug\deps\zerovec_derive-613f9192dd99f3bc.dll: C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\lib.rs C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\make_ule.rs C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\make_varule.rs C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\ule.rs C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\utils.rs C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\varule.rs
+
+C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\lib.rs:
+C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\make_ule.rs:
+C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\make_varule.rs:
+C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\ule.rs:
+C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\utils.rs:
+C:\Users\noale\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\zerovec-derive-0.11.1\src\varule.rs:
